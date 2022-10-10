@@ -1,0 +1,12 @@
+{
+   "EZ Use Store": {
+      "prefix": "zuStore",
+      "body": ["const store = useStore()"],
+      "description": "Use Store"
+   },
+   "EZ Import Store": {
+      "prefix": "ziStore",
+      "body": ["import { useStore } from 'vuex'"],
+      "description": "Import Store"
+   }
+}

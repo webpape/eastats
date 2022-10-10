@@ -1,0 +1,9 @@
+{
+  "trailingComma": "none",
+  "singleQuote": true,
+  "semi": false,
+  "tabWidth": 3,
+  "useTabs": false,
+  "printWidth": 150,
+  "html-whitespace-sensitivity": "ignore"
+}
